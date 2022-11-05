@@ -1,1 +1,9 @@
 how we create a repo?
+
+
+
+------------
+how to stage changes?
+
+how to commit changes?
+-------------
